@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /************
- Diesel:5%,Fuel:6%,Hybrid:3%    
+ Diesel:5%,Gasoline:6%,Hybrid:3%
          _
  door 1 | | door 2
  door 3 |_| door 4
